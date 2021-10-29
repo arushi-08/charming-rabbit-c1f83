@@ -30,7 +30,9 @@ sections:
           Data Transformation Intern
         image: images/ihsmarkit.png
   - title: About This Ray of The Sun
-    subtitle: lorem-ipsum
+    subtitle: >-
+      Arushi means the First Ray of the Sun, but calling myself would be
+      presumptous, now won't it?
     image_alt: lorem-ipsum
     content: >
       Even before I knew all of my 50+ family relatives, I had learned to dance,
