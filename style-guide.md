@@ -36,7 +36,7 @@ seo:
 layout: page
 image: images/Screenshot 2021-10-30 at 12.28.51 AM.png
 ---
-Even before I knew all of my 50+ family relatives, I had to learn to dance, paint and play the piano. Art and music bring me boundless amount of happiness and bliss.
+Even before I knew all of my 50+ family relatives, I had learned to dance, paint and play the piano. Art and music bring me boundless amount of happiness and bliss.
 
 #### TEDxDTU
 
