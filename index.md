@@ -26,6 +26,7 @@ sections:
       - title: IHS Markit
         content: |
           Data Transformation Intern
+        image: images/ihsmarkit.png
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
