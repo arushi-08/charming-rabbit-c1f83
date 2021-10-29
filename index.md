@@ -27,7 +27,7 @@ sections:
         content: |
           Associate Data Scientist
         actions:
-          - label: lorem-ipsum
+          - label: My Experience
             url: '#'
             style: link
             icon: dribbble
