@@ -1,5 +1,5 @@
 ---
-title: Style Guide
+title: About This Ray of The Sun
 subtitle: >-
   Arushi means the First Ray of the Sun, but calling myself that would be
   presumptuous now won't it?
