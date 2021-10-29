@@ -20,11 +20,6 @@
                 "label": "Fun",
                 "url": "/style-guide/",
                 "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
             }
         ]
     },
