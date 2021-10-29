@@ -22,7 +22,7 @@ sections:
     is_numbered: true
     grid_items:
       - title: Optum Global Advantage
-        image: images/Optum_logo.png
+        image: images/optum-logo-vector.png
         content: |
           Associate Data Scientist
       - title: IHS Markit
