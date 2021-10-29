@@ -29,11 +29,6 @@ sections:
         content: |
           Data Transformation Intern
         image: images/ihsmarkit.png
-      - title: Service Title
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
