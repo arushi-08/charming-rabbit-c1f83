@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Four Works
 layout_style: mosaic
 seo:
   title: Portfolio
