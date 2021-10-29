@@ -23,6 +23,8 @@ sections:
     grid_items:
       - title: Optum Global Advantage
         image: images/Optum_logo.png
+        content: |
+          Associate Data Scientist
       - title: IHS Markit
         content: |
           Data Transformation Intern
