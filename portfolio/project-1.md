@@ -1,5 +1,5 @@
 ---
-title: Project Title 1
+title: Hate Speech Detection in Hindi-English Code-mixed Text
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
