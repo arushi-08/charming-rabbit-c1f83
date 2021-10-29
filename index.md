@@ -11,7 +11,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Learning Phase 1
+    title: Projects
     subtitle: '"Learning never exhausts the mind" -- Leornado Da Vinci'
     projects_number: 6
     view_all_url: portfolio
