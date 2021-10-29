@@ -37,7 +37,18 @@ sections:
     content: >
       Even before I knew all of my 50+ family relatives, I had learned to dance,
       paint and play the piano. Art and music bring me boundless amount of
-      happiness and bliss. #### TEDxDTU #### Vibe Dance Society #### Sports Head
+      happiness and bliss. 
+
+
+
+
+      #### TEDxDTU
+
+
+      #### Vibe Dance Society
+
+
+      #### Sports Head
     type: section_content
     image: images/Screenshot 2021-10-30 at 12.25.10 AM.png
 seo:
