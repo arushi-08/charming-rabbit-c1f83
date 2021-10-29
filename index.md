@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Arushi Sharma.'
     content: |
-      23 y/o old Engineer who is learning new cool CS hacks daily.
+      22 y/o old Engineer who is learning new cool CS hacks daily.
     actions: []
   - section_id: latest-projects
     type: section_portfolio
