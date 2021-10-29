@@ -7,7 +7,7 @@ sections:
     content: |
       22 y/o old Engineer who is learning new cool CS hacks daily.
     actions: []
-    title: Arushi S
+    title: Arushi
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
