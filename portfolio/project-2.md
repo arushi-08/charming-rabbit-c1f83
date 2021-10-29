@@ -37,4 +37,4 @@ layout: project
 
 
 
-Paper Link:  https://link.springer.com/chapter/10.1007/978-3-030-86517-7\_23
+Paper Link:  <https://link.springer.com/chapter/10.1007/978-3-030-86517-7_23>
