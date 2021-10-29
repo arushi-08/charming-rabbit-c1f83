@@ -21,7 +21,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - {}
+      - title: Optum Global Advantage
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
