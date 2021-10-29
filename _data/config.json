@@ -26,16 +26,7 @@
     "domain": "https://charming-rabbit-c1f83.netlify.app",
     "footer": {
         "content": "Connect with me",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false
-            }
-        ],
+        "links": [],
         "has_social": true,
         "social_links": [
             {
