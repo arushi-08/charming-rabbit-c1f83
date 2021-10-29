@@ -8,7 +8,7 @@ sections:
       I'm a Python Programmer and Natural Language Processing Researcher. I'm on
       track for learning more about Artificial Intelligence and Data Science.
     actions: []
-    title: Hello World
+    title: Hello World.
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
