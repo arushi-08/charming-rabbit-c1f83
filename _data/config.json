@@ -23,25 +23,5 @@
             }
         ]
     },
-    "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
-        "has_social": true,
-        "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://github.com/arushi-08",
-                "style": "icon",
-                "icon": "github",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/in/arushi--sharma/",
-                "style": "icon",
-                "icon": "linkedin",
-                "new_window": true
-            }
-        ]
-    },
     "domain": "https://charming-rabbit-c1f83.netlify.app"
 }
