@@ -5,8 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     content: >
-      I'm a Python Programmer and Natural Language Processing Researcher. I'm on
-      track for learning more about Artificial Intelligence and Data Science.
+      I'm a Python Programmer and Natural Language Processing Researcher who is
+      on track to learn more about Artificial Intelligence and Data Science.
     actions: []
     title: Hello World.
   - section_id: latest-projects
