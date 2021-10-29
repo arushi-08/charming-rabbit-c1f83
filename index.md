@@ -22,7 +22,7 @@ sections:
     is_numbered: true
     grid_items:
       - title: Optum Global Advantage
-        image: images/Screenshot 2021-10-30 at 1.22.39 AM-4ab719b2.png
+        image: images/Screenshot 2021-10-30 at 1.22.39 AM-8a39a280.png
         content: |
           Associate Data Scientist
       - title: IHS Markit
