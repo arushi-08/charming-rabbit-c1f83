@@ -1,6 +1,6 @@
 ---
 title: Hate Speech Detection in Hindi-English Code-mixed Text
-subtitle: Optional Project Subtitle
+subtitle: Accepted Work in IPM (SCI Journal)
 date: '2019-05-10'
 thumb_image: images/1_thumb.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
