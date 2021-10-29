@@ -23,5 +23,11 @@
             }
         ]
     },
-    "domain": "https://charming-rabbit-c1f83.netlify.app"
+    "domain": "https://charming-rabbit-c1f83.netlify.app",
+    "footer": {
+        "content": "lorem-ipsum",
+        "links": [],
+        "has_social": true,
+        "social_links": []
+    }
 }
