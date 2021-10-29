@@ -34,6 +34,7 @@ seo:
       value: images/exto_preview.png
       relativeUrl: true
 layout: page
+image: images/anubha sketch.jpg
 ---
 Even before I knew all of my 50+ family relatives, I had to learn to dance, paint and play the piano. Art and music bring me boundless amount of happiness and bliss.
 
