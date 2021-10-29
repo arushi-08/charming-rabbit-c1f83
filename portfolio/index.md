@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: Four Works
+subtitle: Natural Language Processing | Python Programming
 layout_style: mosaic
 seo:
   title: Portfolio
