@@ -7,6 +7,9 @@ sections:
     content: >
       I'm a Python Programmer and Natural Language Processing Researcher who is
       on track to learn more about Artificial Intelligence and Data Science.
+
+
+      My aim is to build technology that solves community problems.
     actions: []
     title: Hello World.
   - section_id: latest-projects
