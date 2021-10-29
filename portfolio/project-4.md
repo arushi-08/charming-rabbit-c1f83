@@ -1,6 +1,5 @@
 ---
 title: ICU Requirement Prediction
-subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/medicalsign.png
 thumb_image_alt: A table tennis racket on a pink background
