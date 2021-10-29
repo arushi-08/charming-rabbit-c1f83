@@ -23,7 +23,7 @@ sections:
     grid_items:
       - title: Optum Global Advantage
         image: images/Optum_logo.png
-      - title: Service Title
+      - title: IHS Markit
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
