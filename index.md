@@ -22,6 +22,7 @@ sections:
     is_numbered: true
     grid_items:
       - title: Optum Global Advantage
+        image: images/Optum_logo.png
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
