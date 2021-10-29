@@ -31,7 +31,7 @@ sections:
         image: images/ihsmarkit.png
   - title: About This Ray of Sun
     subtitle: >-
-      Arushi means the First Ray of the Sun, but calling myself that would be
+      Arushi means the First Ray of Sun, but calling myself that would be
       presumptuous, now won't it?
     image_alt: lorem-ipsum
     content: >
