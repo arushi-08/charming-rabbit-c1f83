@@ -1,5 +1,5 @@
 ---
-title: Feature Enhanced Capsule Networks
+title: Feature Enhanced Capsule Networks for Automatic Essay Scoring
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/essay_scoring.jpg
