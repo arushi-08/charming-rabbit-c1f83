@@ -43,7 +43,7 @@
                 "url": "https://github.com/arushi-08",
                 "style": "icon",
                 "icon": "github",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ]
