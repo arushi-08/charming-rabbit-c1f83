@@ -2,7 +2,7 @@
 title: English-Hindi Neural Machine Translation
 subtitle: Published in ICCSP'20 IEEE Conference
 date: '2019-04-08'
-thumb_image: images/3_thumb.jpg
+thumb_image: images/Screenshot 2021-10-30 at 1.10.14 AM.png
 thumb_image_alt: A yellow retro telephone on a yellow background
 image_alt: A yellow retro telephone on a yellow background
 seo:
