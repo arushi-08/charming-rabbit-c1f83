@@ -30,28 +30,6 @@ sections:
         content: |
           Data Transformation Intern
         image: images/ihsmarkit.png
-  - title: About This Ray of Sun
-    subtitle: >-
-      Arushi means the First Ray of Sun, but calling myself that would be
-      presumptuous, now won't it?
-    image_alt: lorem-ipsum
-    content: >
-      Even before I knew all of my 50+ family relatives, I had learned to dance,
-      paint and play the piano. Art and music bring me boundless amount of
-      happiness and bliss. 
-
-
-
-
-      #### TEDxDTU
-
-
-      #### Vibe Dance Society
-
-
-      #### Sports Head
-    type: section_content
-    image: images/Screenshot 2021-10-30 at 12.28.51 AM.png
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
