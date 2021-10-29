@@ -5,12 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Arushi Sharma.'
-    content: >
-      23 y/o old Indian Girl who is learning new cool CS hacks daily. 
-
-
-      Arushi means the First Ray of the Sun, but calling myself that would be
-      presumptuous now won't it?
+    content: |
+      23 y/o old Indian Girl who is learning new cool CS hacks daily.
     actions: []
   - section_id: latest-projects
     type: section_portfolio
