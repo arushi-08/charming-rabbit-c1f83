@@ -17,7 +17,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: About This Ray of the Sun
+    title: Professional Experience
     col_number: two
     is_numbered: true
     grid_items:
