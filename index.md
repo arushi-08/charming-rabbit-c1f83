@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Arushi Sharma.'
+    title: Arushi Sharma.
     content: |
       22 y/o old Engineer who is learning new cool CS hacks daily.
     actions: []
