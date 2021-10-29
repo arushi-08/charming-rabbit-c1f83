@@ -35,5 +35,5 @@ seo:
       relativeUrl: true
 layout: page
 ---
-Even before I knew all of my 50+ family relatives, I had to learn to dance, paint and play the piano. Art and music bring me boundless amount of happiness and bliss. 
+Even before I knew all of my 50+ family relatives, I had to learn to dance, paint and play the piano. Art and music bring me boundless amount of happiness and bliss.
 
