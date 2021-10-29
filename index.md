@@ -33,17 +33,10 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Even before I knew all of my 50+ family relatives, I had learned to dance,
+      paint and play the piano. Art and music bring me boundless amount of
+      happiness and bliss. #### TEDxDTU #### Vibe Dance Society #### Sports Head
     type: section_content
 seo:
   title: Stackbit Exto Theme
