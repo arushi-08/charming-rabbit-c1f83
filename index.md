@@ -29,7 +29,7 @@ sections:
         content: |
           Data Transformation Intern
         image: images/ihsmarkit.png
-  - title: About This Ray of The Sun
+  - title: About This Ray of Sun
     subtitle: >-
       Arushi means the First Ray of the Sun, but calling myself that would be
       presumptuous, now won't it?
