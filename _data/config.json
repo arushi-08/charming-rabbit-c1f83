@@ -51,7 +51,7 @@
                 "url": "https://www.linkedin.com/in/arushi--sharma/",
                 "style": "icon",
                 "icon": "linkedin",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false
             }
         ]
