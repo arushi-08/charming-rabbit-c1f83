@@ -50,7 +50,7 @@ sections:
 
       #### Sports Head
     type: section_content
-    image: images/Screenshot 2021-10-30 at 12.25.10 AM.png
+    image: images/Screenshot 2021-10-30 at 12.28.51 AM.png
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
