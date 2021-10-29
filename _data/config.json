@@ -24,7 +24,7 @@
             {
                 "label": "Fun",
                 "url": "/style-guide/",
-                "style": "button"
+                "style": "link"
             },
             {
                 "label": "About",
