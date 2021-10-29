@@ -26,6 +26,13 @@ sections:
         image: images/Screenshot 2021-10-30 at 1.22.39 AM-8a39a280.png
         content: |
           Associate Data Scientist
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
       - title: IHS Markit
         content: |
           Data Transformation Intern
