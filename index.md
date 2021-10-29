@@ -4,8 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    content: |
-      22 y/o old Engineer who is learning new cool CS hacks daily.
+    content: >
+      I'm a Python Programmer and Natural Language Processing Researcher. I'm on
+      track for learning more about Artificial Intelligence and Data Science.
     actions: []
     title: Hello World
   - section_id: latest-projects
