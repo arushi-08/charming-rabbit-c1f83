@@ -29,7 +29,7 @@ sections:
         content: |
           Data Transformation Intern
         image: images/ihsmarkit.png
-  - title: lorem-ipsum
+  - title: 'About This Ray of '
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
