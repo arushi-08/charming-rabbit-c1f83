@@ -28,8 +28,13 @@ sections:
     grid_items:
       - title: Optum Global Advantage
         image: images/optum-logo copy-c901d7b3.png
-        content: |
-          Associate Data Scientist
+        content: |+
+          Associate Data Scientist | AI & ML Team
+
+
+
+
+
         actions: []
       - title: IHS Markit
         content: |
