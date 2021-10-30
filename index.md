@@ -27,7 +27,7 @@ sections:
     is_numbered: true
     grid_items:
       - title: Optum Global Advantage
-        image: images/optum-logo copy.png
+        image: images/optum-logo copy-c901d7b3.png
         content: |
           Associate Data Scientist
         actions: []
