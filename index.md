@@ -18,7 +18,7 @@ sections:
     layout_style: mosaic
     title: Projects
     subtitle: '"Learning never exhausts the mind" -- Leornado Da Vinci'
-    projects_number: 6
+    projects_number: 4
     view_all_url: portfolio
   - section_id: services
     type: section_grid
