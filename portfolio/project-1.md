@@ -3,7 +3,6 @@ title: Hate Speech Detection in Hindi-English Code-mixed Text
 subtitle: Accepted Work in Elsevier IPM Journal
 date: '2019-05-10'
 thumb_image: images/freehatespeech.jpg
-thumb_image_alt: 'White, black, and red shoe sole'
 image_alt: 'White, black, and red shoe sole'
 seo:
   title: Project Title 1
