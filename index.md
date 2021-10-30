@@ -34,7 +34,7 @@ sections:
       - title: IHS Markit
         content: |
           Data Transformation Intern
-        image: images/ihsmarkit.png
+        image: images/ihsmarkit-f69b889c.png
 seo:
   title: Stackbit Exto Theme
   description: The preview of the Exto theme
