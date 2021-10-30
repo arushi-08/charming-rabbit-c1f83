@@ -12,7 +12,7 @@ sections:
       My biggest motivation is building technologies that solve community
       problems.
     actions: []
-    title: Hello World.
+    title: Hello World
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
